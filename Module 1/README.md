@@ -1,9 +1,11 @@
+## Module 1 - Bandgap Design Theory
+
 ![image](/Images/M1/1.png)
 ![image](/Images/M1/2.png)
 ![image](/Images/M1/3.png)
 ![image](/Images/M1/4.png)
 ![image](/Images/M1/5.png)
-![image](/Images/M1/6.png)
+
 ![image](/Images/M1/7.png)
 ![image](/Images/M1/8.png)
 ![image](/Images/M1/9.png)
